@@ -7,7 +7,7 @@ I am pursuing a career in Data Analytics, thus, I'm showcasing some of my projec
 
 I'm honing my skills in Excel, SQL, Power BI and Statistics.
 
-I'm looking to collaborate on Web Scraping using Python, data mining and building data pipelines.
+Feel free to drop by.
 
      - 📫 How to reach me: https://www.linkedin.com/in/felicitywanjiru/
 
