@@ -1,3 +1,6 @@
+![Data Analyst Banner](https://user-images.githubusercontent.com/8385040/211572807-e20b0bd0-be1d-40c7-9893-432ff175fca2.png)
+
+
 Hi there 👋🏾
 
 I am pursuing a career in Data Analytics, thus, I'm showcasing some of my projects on here.
