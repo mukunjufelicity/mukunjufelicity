@@ -1,17 +1,27 @@
-![Data Analyst Banner](https://user-images.githubusercontent.com/8385040/211572807-e20b0bd0-be1d-40c7-9893-432ff175fca2.png)
+# 💫 About Me:
+🔭i'm currently working on Tableau visuals for projects<br>🌱i'm currently learning R<br>💭feel free to ask me about Data Analytics and Project Management<br>🫱🏾‍🫲🏽i'm open to collaborating on data analysis projects and building products<br><br>👩‍💻fun fact - my work is built with 💓and powered by multiple cups of coffee☕
 
 
-Hi there 👋🏾
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felicitywanjiru/) 
 
-I am pursuing a career in Data Analytics, thus, I'm showcasing some of my projects on here.
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mukunjufelicity&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-I'm honing my skills in Excel, SQL, Power BI and Statistics.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mukunjufelicity&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-Feel free to drop by.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-     - 📫 How to reach me: https://www.linkedin.com/in/felicitywanjiru/
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<!---
-mukunjufelicity/mukunjufelicity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=mukunjufelicity&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
