@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭i'm currently working on Tableau visuals for projects<br>🌱i'm currently learning R<br>💭feel free to ask me about Data Analytics and Project Management<br>🫱🏾‍🫲🏽i'm open to collaborating on data analysis projects and building products<br><br>👩‍💻fun fact - my work is built with 💓and powered by multiple cups of coffee☕
+🔍 I'm presently engaged in crafting Tableau visualizations for various projects.
+📚 I'm actively expanding my skills in R.
+🤔 Feel free to approach me for insights on Data Analytics and Project Management.
+🤝 I'm enthusiastic about collaborating on data analysis projects and co-creating valuable products.
+
+👩‍💻 Fun fact: My work is meticulously crafted with passion 💓 and fueled by copious cups of coffee ☕.
 
 
 ## 🌐 Socials:
