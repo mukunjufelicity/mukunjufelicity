@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 I'm presently engaged in crafting Tableau visualizations for various projects.
+🔍 I'm presently engaged in crafting Power BI visualizations for various projects.
 📚 I'm actively expanding my skills in R.
 🤔 Feel free to approach me for insights on Data Analytics and Project Management.
 🤝 I'm enthusiastic about collaborating on data analysis projects and co-creating valuable products.
