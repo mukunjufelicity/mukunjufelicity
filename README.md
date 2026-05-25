@@ -1,65 +1,72 @@
-# # 💫 About Me
+# Hey there! I'm Wanjiru Muhiu 🇰🇪💼
 
-Project & Operations Manager with experience across Tech/SaaS, Microfinance, and Supply Chain. I focus on process optimization, cross functional execution, and delivering data driven outcomes in distributed global teams.
-
-I work at the intersection of operations, analytics, and delivery excellence, building systems that improve efficiency and scale.
-
-I’m currently strengthening my capabilities in data analytics and workflow automation to support better decision making and operational visibility.
-
-🤝 Open to collaboration on operations, analytics, and process improvement projects that create measurable impact.
-
-👩‍💻 Fun fact: My work is meticulously crafted with passion 💓 and fueled by copious cups of coffee ☕.
+<img src="banner.png" alt="Wanjiru Muhiu Banner" width="100%" />
 
 
-# # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felicitywanjiru/) 
 
+## 🚀 About Me
+I'm a **Senior Project & Operations Manager** based in **Nairobi, Kenya**. I specialize in keeping fast-growing remote teams synchronized, healthy, and focused on high-quality delivery.
 
-# # 💻 Tech Stack (Project & Operations Management)
-
-## 🧭 Project & Workflow Management
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-FF3D57.svg?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+- 🗺️ **Global Citizen**: Deep experience aligning project execution across distributed teams (**PST, EST, GMT, CET**).
+- ⚙️ **Agile Enthusiast**: Designing processes that feel light but ensure strong, predictable outcome delivery.
+- ⚡ **Async Advocate**: Creating deep-work friendly environments through standard micro-documentation, written standups, and structured task states.
 
 ---
 
-## 📊 Data & Reporting
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🎯 Core Strengths & Impact
+- **Sprint Speed & Quality**: 📈 Operational Efficiency: Boosted engineering sprint velocities by 35% through custom Jira automations and SOPs.
+- **Communication Architect**: ⚡ Sync & Async Balance: Overhauled communication strategies to reclaim 12+ meeting hours weekly per team member.
+- **Sovereign Time-Zone Orchestrator**: 🗺️ Timezone Bridge: Managed projects across GMT, CET, EST, and PST with meticulous documentation and handovers.
 
 ---
 
-## 🤝 Communication & Collaboration
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
-![WhatsApp Business](https://img.shields.io/badge/WhatsApp%20Business-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+## 🛠️ My Remote Operations Stack
+
+### 📂 Project Delivery & Workflow Management
+End to end delivery of projects from planning to execution using structured workflows, timelines, and cross functional coordination
+
+`Jira Software`  |  `Monday.com`  |  `Notion`  |  `ClickUp`  | `Miro`  |  `Trello` |  `Figma (collaboration)`
+
+### 💬 Remote Team Communication & Alignment
+Keeping distributed teams aligned through clear communication, async updates, and effective stakeholder engagement across time zones
+
+`Slack`  |  `Microsoft Teams`  |  `WhatsApp Business` |  `Google Workspace`  |  `Zoom`
+
+### 📊 Reporting, Insights & Decision Support
+Translating data into actionable insights, performance tracking, and leadership reporting to support decision making and operational visibility
+
+`Power BI`  |  `Google Sheets`  | `Looker Studio`
+
+### 💻 Business Systems, Operations & Automation
+Improving workflows, connecting systems, and streamlining operations through simple automation and CRM based processes
+
+`Airtable`  |  `Salesforce`  |  `Zoho`  |  `Github (collaboration)`  |  `Freshdesk`
 
 ---
 
-## 🧑‍💼 CRM & Customer Ops Tools
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-FF0000.svg?style=for-the-badge&logo=zoho&logoColor=white)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-0255D5.svg?style=for-the-badge&logo=freshworks&logoColor=white)
+## 🌍 Timezone Compatibility
+As a remote coordinator operating from **Nairobi, Kenya (EAT (UTC+3))**, I provide strong live coverage for:
+- 🇪🇺 **Europe (CET/CEST)**: ~100% standard business overlap (No lag, real-time collaboration).
+- 🇬🇧 **United Kingdom (GMT/BST)**: ~100% standard business overlap (Perfect sync).
+- 🇺🇸 **North America (EST/EDT)**: Clean afternoon overlap (standups, daily alignment, hand-overs).
+- 🇺🇸 **North America (PST/PDT)**: Perfect setup for "Follow-the-Sun" deliveries (I process and unblock blockers before your morning starts!).
 
 ---
 
-## 🎨 Collaboration & Design (Ops Enablement)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mukunjufelicity&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# #🏆 GitHub Trophies
+## 📈 # #🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mukunjufelicity&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# # ✍️ Random Dev Quote
+# # ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=mukunjufelicity&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+
+## 📫 Connect & Collaborate
+I'm always excited about joining high-conviction, mission-oriented teams. Let's build together:
+
+[![LinkedIn Badges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felicitywanjiru)
+[![Calendly Badges](https://img.shields.io/badge/Schedule_Sync-4D4D4D?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/felicitymukunju/30min)
+
+> *"Operations isn't about control; it's about making progress effortless."*
