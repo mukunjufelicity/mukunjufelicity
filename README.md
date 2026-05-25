@@ -1,4 +1,4 @@
-# 💫 About Me
+# # 💫 About Me
 
 Project & Operations Manager with experience across Tech/SaaS, Microfinance, and Supply Chain. I focus on process optimization, cross functional execution, and delivering data driven outcomes in distributed global teams.
 
@@ -11,8 +11,9 @@ I’m currently strengthening my capabilities in data analytics and workflow aut
 👩‍💻 Fun fact: My work is meticulously crafted with passion 💓 and fueled by copious cups of coffee ☕.
 
 
-## 🌐 Socials:
+# # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felicitywanjiru/) 
+
 
 # # 💻 Tech Stack (Project & Operations Management)
 
@@ -26,7 +27,6 @@ I’m currently strengthening my capabilities in data analytics and workflow aut
 ---
 
 ## 📊 Data & Reporting
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -46,12 +46,6 @@ I’m currently strengthening my capabilities in data analytics and workflow aut
 
 ---
 
-## ☁️ Cloud & Data Infrastructure
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ## 🎨 Collaboration & Design (Ops Enablement)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
@@ -59,7 +53,7 @@ I’m currently strengthening my capabilities in data analytics and workflow aut
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mukunjufelicity&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# #🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mukunjufelicity&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
