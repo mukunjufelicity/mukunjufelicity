@@ -1,7 +1,4 @@
-# Hi there! I'm Felicity 🇰🇪💼
-
 <img src="remote-pm-banner.jpg" alt="PM Banner" width="100%" />
-
 
 
 ## 🚀 About Me
