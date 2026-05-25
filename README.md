@@ -1,6 +1,6 @@
 # Hi there! I'm Felicity 🇰🇪💼
 
-<img src="github_pm_banner_1779712652272.png" alt="Wanjiru Muhiu Banner" width="100%" />
+<img src="remote-pm-banner.jpg" alt="PM Banner" width="100%" />
 
 
 
