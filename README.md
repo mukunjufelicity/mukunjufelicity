@@ -14,9 +14,47 @@ I’m currently strengthening my capabilities in data analytics and workflow aut
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felicitywanjiru/) 
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
+# # 💻 Tech Stack (Project & Operations Management)
+
+## 🧭 Project & Workflow Management
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3D57.svg?style=for-the-badge&logo=mondaydotcom&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📊 Data & Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🤝 Communication & Collaboration
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp%20Business-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+---
+
+## 🧑‍💼 CRM & Customer Ops Tools
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-FF0000.svg?style=for-the-badge&logo=zoho&logoColor=white)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-0255D5.svg?style=for-the-badge&logo=freshworks&logoColor=white)
+
+---
+
+## ☁️ Cloud & Data Infrastructure
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🎨 Collaboration & Design (Ops Enablement)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mukunjufelicity&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukunjufelicity&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
