@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" style="background: #09090b;">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#1c1917" />
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0" />
+    </radialGradient>
+    
+    <!-- Fine grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(251, 191, 36, 0.04)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    
+    /* Elegant float animation for cards & nodes */
+    @keyframes floatSelf {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+      100% { transform: translateY(0px); }
+    }
+    .float-anim {
+      animation: floatSelf 5s ease-in-out indefinite;
+      animation-iteration-count: infinite;
+    }
+
+    /* Drift card animation along Kanban column for agile flow */
+    @keyframes driftCard {
+      0% { transform: translate(0, 0); opacity: 0; }
+      10% { opacity: 1; }
+      80% { opacity: 1; }
+      100% { transform: translate(145px, 65px); opacity: 0; }
+    }
+    .drift-card-anim {
+      animation: driftCard 7s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    /* Paper plane trajectory */
+    @keyframes planeFlight {
+      0% { transform: translate(20px, 320px) scale(0.6); opacity: 0; }
+      10% { opacity: 0.8; }
+      50% { transform: translate(250px, 150px) scale(0.9); }
+      90% { opacity: 0.8; }
+      100% { transform: translate(500px, 80px) scale(0.7); opacity: 0; }
+    }
+    .plane-flight-anim {
+      animation: planeFlight 9s ease-in-out infinite;
+    }
+
+    /* Rotate spinners */
+    @keyframes spinClockwise {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .spin-clockwise {
+      transform-origin: 0px 0px;
+      animation: spinClockwise 30s linear infinite;
+    }
+    @keyframes spinCounterClockwise {
+      0% { transform: rotate(360deg); }
+      100% { transform: rotate(0deg); }
+    }
+    .spin-counter-clockwise {
+      transform-origin: 0px 0px;
+      animation: spinCounterClockwise 24s linear infinite;
+    }
+
+    /* Heartbeat text opacity pulse */
+    @keyframes textPulse {
+      0% { opacity: 0.7; }
+      50% { opacity: 1; }
+      100% { opacity: 0.7; }
+    }
+    .text-pulse {
+      animation: textPulse 3s ease-in-out infinite;
+    }
+
+    /* Responsive adjustments */
+    text {
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    .glow-hover {
+      transition: filter 0.3s ease;
+    }
+    .glow-hover:hover {
+      filter: drop-shadow(0px 0px 12px #fbbf24);
+    }
+  </style>
+
+  <!-- Solid background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <!-- Grid overlay -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
+  
+  <!-- Subtle circular accent glow source -->
+  <circle cx="850" cy="200" r="300" fill="url(#glowGrad)" pointer-events="none" />
+
+  <!-- Abstract geometric tech framing -->
+  <path d="M 0,0 L 250,0 L 150,100 L 0,100 Z" fill="#fbbf24" fill-opacity="0.02" />
+  <path d="M 0,300 L 120,400 L 0,400 Z" fill="#fbbf24" fill-opacity="0.03" />
+  <path d="M 1200,300 L 1200,400 L 1050,400 Z" fill="#fbbf24" fill-opacity="0.04" />
+  <line x1="0" y1="100" x2="150" y2="100" stroke="#fbbf24" stroke-opacity="0.1" stroke-width="1.5" />
+  <line x1="150" y1="100" x2="250" y2="0" stroke="#fbbf24" stroke-opacity="0.1" stroke-width="1.5" />
+
+  <!-- LEFT CONTENT ZONE: Human details -->
+  <g transform="translate(80, 0)">
+    
+    <!-- Top Greeting Label -->
+    <g transform="translate(0, 85)">
+      <rect x="0" y="-14" width="105" height="20" rx="4" fill="#fbbf24" fill-opacity="0.1" />
+      <text x="8" y="0" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="700" fill="#fbbf24" letter-spacing="1">HI THERE! I'M</text>
+      
+      <!-- Cozy pulsing status indicator dot -->
+      <circle cx="94" cy="-4" r="3.5" fill="#fbbf24">
+         <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <!-- Main Headliner Name -->
+    <text x="0" y="145" font-family="'Inter', sans-serif" font-size="46" font-weight="800" fill="#f4f4f5" letter-spacing="-1">Felicity KE</text>
+    
+    <!-- Subtitle divider line -->
+    <line x1="0" y1="170" x2="420" y2="170" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+
+    <!-- Role / Title Tagline -->
+    <text x="0" y="200" font-family="'Inter', sans-serif" font-size="20" font-weight="700" fill="#fef08a" letter-spacing="0.2">Senior Project & Operations Manager</text>
+    
+    <!-- Location Meta Information -->
+    <g transform="translate(0, 232)">
+      <!-- Map Pin Symbol (Vector representation of map pin) -->
+      <path d="M 4,0 C 0,-4 0,-10 4,-14 C 8,-10 8,-4 4,0 Z M 4,-5 C 5.1,-5 6,-5.9 6,-7 C 6,-8.1 5.1,-9 4,-9 C 2.9,-9 2,-8.1 2,-7 C 2,-5.9 2.9,-5 4,-5 Z" fill="#fbbf24" transform="translate(0, -2)" />
+      <text x="18" y="-9" font-family="'Inter', sans-serif" font-size="12" font-weight="500" fill="#a1a1aa">Nairobi, Kenya</text>
+    </g>
+
+    <!-- Core Philosophy / Subtagline -->
+    <text x="0" y="270" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#a1a1aa" font-style="normal">Aligning teams, light-weight processes, predictable delivery.</text>
+
+    <!-- Active Deliverables Badges / Tags -->
+    <g transform="translate(0, 310)">
+      <!-- Badge 1 -->
+      <g>
+        <rect x="0" y="0" width="130" height="26" rx="13" fill="#18181b" stroke="#f4f4f5" stroke-opacity="0.1" stroke-width="1" />
+        <circle cx="12" cy="13" r="3" fill="#fbbf24" />
+        <text x="24" y="17" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#f4f4f5">Async Advocate</text>
+      </g>
+
+      <!-- Badge 2 -->
+      <g transform="translate(140, 0)">
+        <rect x="0" y="0" width="120" height="26" rx="13" fill="#18181b" stroke="#f4f4f5" stroke-opacity="0.1" stroke-width="1" />
+        <circle cx="12" cy="13" r="3" fill="#fef08a" />
+        <text x="24" y="17" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#f4f4f5">Agile Leader</text>
+      </g>
+
+      <!-- Badge 3 -->
+      <g transform="translate(270, 0)">
+        <rect x="0" y="0" width="135" height="26" rx="13" fill="#18181b" stroke="#f4f4f5" stroke-opacity="0.1" stroke-width="1" />
+        <circle cx="12" cy="13" r="3" fill="#fbbf24" />
+        <text x="24" y="17" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#f4f4f5">Delivery Focus</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- RIGHT GRAPHICS ZONE: Dynamic workflow simulator -->
+  
+        <!-- Constellations and Nodes Representing Global Remote Delivery Alignment -->
+        <g id="world-constellation" transform="translate(560, -30)">
+          <!-- Abstract Background Map Dots/Points -->
+          <g fill="#fbbf24" opacity="0.08">
+            <circle cx="120" cy="180" r="1.5" />
+            <circle cx="140" cy="200" r="2" />
+            <circle cx="180" cy="220" r="1.5" />
+            <circle cx="230" cy="170" r="2.5" />
+            <circle cx="210" cy="250" r="1.5" /> <!-- Nairobi Zone -->
+            <circle cx="280" cy="140" r="2" />
+            <circle cx="320" cy="180" r="1.5" />
+            <circle cx="340" cy="270" r="2.5" />
+            <circle cx="390" cy="220" r="1.5" />
+            <circle cx="410" cy="190" r="2" />
+            <circle cx="430" cy="110" r="1.5" />
+            <circle cx="450" cy="290" r="2" />
+          </g>
+
+          <!-- Core Coordinate Ring representing Nairobi base -->
+          <g transform="translate(210, 245)">
+            <circle cx="0" cy="0" r="24" fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.4" stroke-dasharray="4,3">
+              <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+            </circle>
+            <circle cx="0" cy="0" r="12" fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.3">
+              <animate attributeName="r" values="3;16" dur="4s" repeatCount="indefinite" />
+              <animate attributeName="opacity" values="0.7;0" dur="4s" repeatCount="indefinite" />
+            </circle>
+            <circle cx="0" cy="0" r="4.5" fill="#fbbf24" style="filter: drop-shadow(0 0 6px #fbbf24);">
+              <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
+            </circle>
+            <text x="12" y="3" font-family="'Inter', sans-serif" font-size="9" font-weight="700" fill="#fbbf24" letter-spacing="1">NAIROBI (HQ)</text>
+          </g>
+
+          <!-- Global Connections lines with moving light pulses -->
+          <g stroke="#fbbf24" stroke-opacity="0.15" stroke-width="1.5" fill="none">
+            <!-- Nairobi to US East Coordinate -->
+            <path id="route1" d="M 210,245 C 130,210 100,190 120,180" />
+            <!-- Nairobi to London/European Timezones -->
+            <path id="route2" d="M 210,245 C 190,170 170,120 180,110" />
+            <!-- Nairobi to Asia Pacific Coordinate -->
+            <path id="route3" d="M 210,245 C 310,210 390,190 410,190" />
+            <!-- Nairobi to South America -->
+            <path id="route4" d="M 210,245 C 150,260 110,280 80,310" />
+          </g>
+
+          <!-- Dynamic Light Point Pulses (flowing along the async coordinates) -->
+          <circle r="4" fill="#fef08a" opacity="0.9" style="filter: drop-shadow(0 0 3px #fef08a);">
+            <animateMotion dur="4s" repeatCount="indefinite" path="M 210,245 C 130,210 100,190 120,180" />
+          </circle>
+          
+          <circle r="3.5" fill="#fbbf24" opacity="0.8">
+            <animateMotion dur="5s" repeatCount="indefinite" path="M 210,245 C 310,210 390,190 410,190" />
+          </circle>
+
+          <circle r="3" fill="#fef08a" opacity="0.8">
+            <animateMotion dur="3.5s" repeatCount="indefinite" path="M 180,110 C 170,120 190,170 210,245" />
+          </circle>
+
+          <!-- Nodes / Hubs representing Global Distributed Team Synchrony -->
+          <g class="float-anim" style="animation-delay: 0.2s;" transform="translate(120, 180)">
+            <circle cx="0" cy="0" r="5" fill="#18181b" stroke="#fbbf24" stroke-width="1.5" />
+            <circle cx="0" cy="0" r="2" fill="#fbbf24" />
+            <text x="10" y="3" font-family="'Inter', sans-serif" font-size="9" fill="#a1a1aa">PST / EST</text>
+          </g>
+
+          <g class="float-anim" style="animation-delay: 0.8s;" transform="translate(180, 110)">
+            <circle cx="0" cy="0" r="5" fill="#18181b" stroke="#fbbf24" stroke-width="1.5" />
+            <circle cx="0" cy="0" r="2" fill="#fbbf24" />
+            <text x="10" y="-5" font-family="'Inter', sans-serif" font-size="9" fill="#a1a1aa">GMT +1</text>
+          </g>
+
+          <g class="float-anim" style="animation-delay: 1.4s;" transform="translate(410, 190)">
+            <circle cx="0" cy="0" r="5" fill="#18181b" stroke="#fbbf24" stroke-width="1.5" />
+            <circle cx="0" cy="0" r="2" fill="#fbbf24" />
+            <text x="-48" y="12" font-family="'Inter', sans-serif" font-size="9" fill="#a1a1aa">SGT / JST</text>
+          </g>
+
+          <!-- Abstract Mesh overlay connections and indicators -->
+          <path d="M 80,100 L 150,60 L 250,50 L 370,80 L 460,140 L 400,280 L 340,320 L 250,330 L 100,290 Z" fill="none" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.04" stroke-dasharray="10,5" />
+          
+          <!-- Ops stats overlay tag elements -->
+          <g transform="translate(40, 90)" class="glow-hover float-anim">
+            <rect x="0" y="0" width="135" height="38" rx="8" fill="#18181b" fill-opacity="0.9" stroke="#fbbf24" stroke-opacity="0.2" />
+            <circle cx="15" cy="18" r="4" fill="#fbbf24">
+              <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <text x="26" y="16" font-family="'Inter', sans-serif" font-size="9" font-weight="700" fill="#fbbf24" letter-spacing="0.5">OPS STATUS: OPTIMIZED</text>
+            <text x="26" y="27" font-family="'Inter', sans-serif" font-size="8" fill="#a1a1aa">100% Async Synchronization</text>
+          </g>
+
+          <g transform="translate(290, 260)" class="glow-hover float-anim" style="animation-delay: 0.7s;">
+            <rect x="0" y="0" width="130" height="38" rx="8" fill="#18181b" fill-opacity="0.9" stroke="#fbbf24" stroke-opacity="0.15" />
+            <path d="M 12,22 L 16,26 L 24,14" fill="none" stroke="#fbbf24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+            <text x="32" y="16" font-family="'Inter', sans-serif" font-size="9" font-weight="700" fill="#f4f4f5">DELIVERY INDEX</text>
+            <text x="32" y="27" font-family="'Inter', sans-serif" font-size="8" fill="#a1a1aa">Healthy Process Cadence</text>
+          </g>
+        </g>
+      
+
+</svg>
