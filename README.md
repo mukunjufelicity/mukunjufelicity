@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔍 I'm presently engaged in crafting Power BI visualizations for various projects.
-📚 I'm actively expanding my skills in R.
-🤔 Feel free to approach me for insights on Data Analytics and Project Management.
-🤝 I'm enthusiastic about collaborating on data analysis projects and co-creating valuable products.
+# 💫 About Me
+
+Project & Operations Manager with 7+ years of experience across Tech/SaaS, Microfinance, and Supply Chain. I focus on process optimization, cross functional execution, and delivering data driven outcomes in distributed global teams.
+
+I work at the intersection of operations, analytics, and delivery excellence, building systems that improve efficiency and scale.
+
+I’m currently strengthening my capabilities in data analytics and workflow automation to support better decision making and operational visibility.
+
+🤝 Open to collaboration on operations, analytics, and process improvement projects that create measurable impact.
 
 👩‍💻 Fun fact: My work is meticulously crafted with passion 💓 and fueled by copious cups of coffee ☕.
 
