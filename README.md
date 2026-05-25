@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Project & Operations Manager with 7+ years of experience across Tech/SaaS, Microfinance, and Supply Chain. I focus on process optimization, cross functional execution, and delivering data driven outcomes in distributed global teams.
+Project & Operations Manager with experience across Tech/SaaS, Microfinance, and Supply Chain. I focus on process optimization, cross functional execution, and delivering data driven outcomes in distributed global teams.
 
 I work at the intersection of operations, analytics, and delivery excellence, building systems that improve efficiency and scale.
 
