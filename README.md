@@ -1,8 +1,23 @@
-<img src="remote-pm-banner.jpg" alt="PM Banner" width="100%" />
-
-
 ## 🚀 About Me
-I'm a **Senior Project & Operations Manager** based in **Nairobi, Kenya**. I specialize in keeping fast-growing remote teams synchronized, healthy, and focused on high-quality delivery.
+I’m a Product and Delivery Manager with 7 years of experience building, scaling, and optimising SaaS and enterprise platforms in distributed, fast moving environments.
+
+I work at the intersection of product execution, operations, and engineering delivery, ensuring that ideas move from concept to shipped value with clarity, speed, and measurable impact.
+
+My focus is on turning complexity into structured, outcome driven delivery systems that help teams build the right thing, ship it efficiently, and continuously improve based on data and feedback.
+
+---
+
+📦 **Product Execution & Delivery**
+Translating product strategy into actionable roadmaps, clear prioritisation, and predictable delivery across multiple engineering workstreams.
+
+📊 **Data Informed Decision Making**
+Using operational signals, support trends, and delivery metrics to inform product trade offs, backlog refinement, and iteration cycles.
+
+🤝 **Cross Functional Product Alignment**
+Aligning engineering, design, and stakeholders around shared outcomes through structured communication, clear acceptance criteria, and disciplined execution frameworks.
+
+⚙️ **Scalable Product Operations**
+Designing lightweight but reliable systems for backlog management, sprint execution, risk tracking, and release governance in distributed teams.
 
 - 🗺️ **Global Citizen**: Deep experience aligning project execution across distributed teams (**PST, EST, GMT, CET**).
 - ⚙️ **Agile Enthusiast**: Designing processes that feel light but ensure strong, predictable outcome delivery.
