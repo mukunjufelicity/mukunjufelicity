@@ -1,4 +1,4 @@
-![banner](./banner.gif)
+![banner](./github_profile_banner_static.svg)
 
 
 ## 🚀 About Me
