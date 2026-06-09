@@ -1,3 +1,7 @@
+
+![banner](./banner.gif)
+
+
 ## 🚀 About Me
 I’m a Product and Delivery Manager with 7 years of experience building, scaling, and optimising SaaS and enterprise platforms in distributed, fast moving environments.
 
