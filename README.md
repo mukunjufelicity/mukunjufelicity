@@ -1,5 +1,5 @@
-
-![banner](./banner.gif)
+[
+![banner](./banner.gif)](https://github.com/user-attachments/assets/banner.gif.mp4)
 
 
 ## 🚀 About Me
