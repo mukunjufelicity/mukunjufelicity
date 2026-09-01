@@ -60,7 +60,7 @@ Improving workflows, connecting systems, and streamlining operations through sim
 ---
 
 ## 🌍 Timezone Compatibility
-As a remote coordinator operating from **Nairobi, Kenya (EAT (UTC+3))**, I provide strong live coverage for:
+As a remote coordinator operating from **Nairobi, Kenya (EAT, UTC+3)**, I provide strong live coverage for:
 - 🇪🇺 **Europe (CET/CEST)**: ~100% standard business overlap (No lag, real-time collaboration).
 - 🇬🇧 **United Kingdom (GMT/BST)**: ~100% standard business overlap (Perfect sync).
 - 🇺🇸 **North America (EST/EDT)**: Clean afternoon overlap (standups, daily alignment, hand-overs).
