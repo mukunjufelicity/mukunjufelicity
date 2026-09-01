@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I’m a Product and Delivery Manager with 7 years of experience building, scaling, and optimising SaaS and enterprise platforms in distributed, fast moving environments.
+I’m a Project and Delivery Manager with 7 years of experience building, scaling, and optimising SaaS and enterprise platforms in distributed, fast moving environments.
 
 I work at the intersection of product execution, operations, and engineering delivery, ensuring that ideas move from concept to shipped value with clarity, speed, and measurable impact.
 
